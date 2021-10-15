@@ -41,11 +41,10 @@
 ![nonverbale.jpg](https://slideplayer.fr/slide/3478186/11/images/13/La+communication+dans+le+soin%2C+F+Bernard+et+H.+Musellec.jpg)
 
 
+## <ins> Cette video est a prendre avec du second degré </ins>
 
-## <mark>Marked text</mark>
 
-
-## Pour illustrer ceci voici une video d'un son très philosophique :
+##  Pour illustrer ceci voici une video d'un son très philosophique :
 
 
 
