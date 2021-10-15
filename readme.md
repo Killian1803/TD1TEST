@@ -42,8 +42,8 @@
 
 
 
-## [\<mark>](La video qui suit est a prendre avec du second degrée )
-==Marked text==
+## == La video qui suit est a prendre avec du second degrée) ==
+
 
 ## Pour illustrer ceci voici une video d'un son très philosophique :
 
