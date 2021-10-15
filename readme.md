@@ -15,7 +15,7 @@
 
 ## La communication orchestrale, son origine, son concept, son utilisation
 
-*Après le modèle linéaire de Claude Shannon<ref group="info">Il était un ingénieur en génie éléctrique et un mathématicien américain. </ref>, voit le jour la communication orchestrale, une communication qui implique autre chose que les mots, mais qui fait intervenir les gestes, la voix, le silence...
+*Après le modèle linéaire de Claude Shannon voit le jour la communication orchestrale, une communication qui implique autre chose que les mots, mais qui fait intervenir les gestes, la voix, le silence...*
 
 Voici certaines informations à savoir avant de lire cette page. 
 
