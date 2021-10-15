@@ -40,17 +40,6 @@ Voici certaines informations à savoir avant de lire cette page.
  Le langage corporel :]''' Parmi les spécialistes de la communication non verbale, il est communément admis que le corps ne ment jamais. En effet, il est très difficile de masquer une réaction spontanée du corps en lien avec une information donnée, alors qu’il est plus facile de ne pas répondre verbalement à une sollicitation. Chaque geste, aussi infime soit-il, constitue une information visuelle supplémentaire au message verbal.
 
 
-==Images importantes==
-<gallery position="center" captionalign="center" navigation="true">
-Fichier:Comnonverbal.png|Schéma communication
-Fichier:Orchestre.jpg|Orchestre
-Fichier:Nonverbale.jpg|Schéma Communication non verbale
-</gallery>
-<!-- La galerie ci-dessus convient parfaitement pour les pages d'articles mais il serait également bien d'en avoir une autre juste en dessous qui listerait les pages de Catégorie: les plus importantes. -->
-<mainpage-endcolumn />
-<mainpage-rightcolumn-start />
-''Besoin d'aide pour construire cette communauté ?''
-
 
 
 Vous pouvez également faire partie de la grande famille des communautés Fandom. Venez visiter le [[w:c:communaute|Centre des communautés]] !
