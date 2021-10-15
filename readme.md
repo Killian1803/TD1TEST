@@ -42,7 +42,8 @@
 
 
 
-## La video qui suit est a prendre avec du second degrée Shortcuts (emoticons): :-) :-( 8-) ;)
+## La video qui suit est a prendre avec du second degrée 
+## Shortcuts (emoticons): :-) :-( 8-) ;)
 
 ## Pour illustrer ceci voici une video d'un son très philosophique :
 
