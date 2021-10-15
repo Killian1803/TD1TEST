@@ -17,7 +17,7 @@
 
 *Après le modèle linéaire de Claude Shannon voit le jour la communication orchestrale, une communication qui implique autre chose que les mots, mais qui fait intervenir les gestes, la voix, le silence...*
 
-Voici certaines informations à savoir avant de lire cette page. 
+**Voici certaines informations à savoir avant de lire cette page.** 
 
 1945
 |-
