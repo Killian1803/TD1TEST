@@ -18,11 +18,8 @@
 *Après le modèle linéaire de Claude Shannon<ref group="info">Il était un ingénieur en génie éléctrique et un mathématicien américain. </ref>, voit le jour la communication orchestrale, une communication qui implique autre chose que les mots, mais qui fait intervenir les gestes, la voix, le silence...
 
 Voici certaines informations à savoir avant de lire cette page. 
-{| class="fandom-table"
-|+Certaines notions à savoir...
-!Communication télégraphique
-!La vision du télégraphe est historique, dans le sens où le concept de « Emetteur – Message – Récepteur » est défini par Claude Shannon, qui travaillait dans les laboratoires Bell.
-!1945
+
+1945
 |-
 |Notion de Feed Back
 |Littéralement, le '''feedback''' c'est ce qui "nourrit en retour". Il doit permettre à celui qui le reçoit de se construire et de progresser. Le '''feedback''' doit être quotidien, rapide, structuré et multidirectionnel.
