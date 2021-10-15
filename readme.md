@@ -39,9 +39,6 @@ Voici certaines informations à savoir avant de lire cette page.
 #### Je rentre dans un monde de communication  et j'accepte d’intégrer les codes intrinsèques au groupe intégré.
  Le langage corporel :]''' Parmi les spécialistes de la communication non verbale, il est communément admis que le corps ne ment jamais. En effet, il est très difficile de masquer une réaction spontanée du corps en lien avec une information donnée, alors qu’il est plus facile de ne pas répondre verbalement à une sollicitation. Chaque geste, aussi infime soit-il, constitue une information visuelle supplémentaire au message verbal.
 
-[[Fichier:Nonverbale.jpg|bordure|centré|vignette|292x292px]]<ref group="info">55% de la communication est non verbale d'ou son importance primordiale </ref>
-<br /></div>
-<references group="info" />
 
 ==Images importantes==
 <gallery position="center" captionalign="center" navigation="true">
