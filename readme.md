@@ -42,7 +42,7 @@
 
 
 
-## ++La video qui suit est a prendre avec du second degrée)++
+## <mark>Marked text</mark>
 
 
 ## Pour illustrer ceci voici une video d'un son très philosophique :
