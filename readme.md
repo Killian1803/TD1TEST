@@ -41,9 +41,9 @@
 ![nonverbale.jpg](https://slideplayer.fr/slide/3478186/11/images/13/La+communication+dans+le+soin%2C+F+Bernard+et+H.+Musellec.jpg)
 
 
-::: warning
-## La video qui suit est a prendre avec du second degrée 
-:::
+
+::: ## La video qui suit est a prendre avec du second degrée :::
+
 ## Pour illustrer ceci voici une video d'un son très philosophique :
 
 
