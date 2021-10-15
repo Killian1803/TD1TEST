@@ -41,5 +41,9 @@ Voici certaines informations à savoir avant de lire cette page.
 ![nonverbale.jpg](https://slideplayer.fr/slide/3478186/11/images/13/La+communication+dans+le+soin%2C+F+Bernard+et+H.+Musellec.jpg)
 
 #### Pour illustrer ceci voici une video d'un son très philosophique 
-![nyt5s.com-J’avais juste envie d’écrire..mp4](https://r3---sn-4g5edn6y.googlevideo.com/videoplayback?expire=1634222906&ei=2u5nYeWeCdTwgQfDmIuoCA&ip=46.101.231.234&id=o-AJ0zJZWAki3f5Zeg9vadh9Dr2gCLTcBpvYmXS2lbWKNQ&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=155.921&lmt=1630486391674358&fexp=24001373,24007246&c=ANDROID&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAO6UwUq_Wa7CmWBWpTfY4PbyMqhm-nE4jg7CEbihOA9UAiAoYiDZiXU9BzpgpEz_I0AysFC-aCOjD-sAM7Ocz5b2_g%3D%3D&host=r3---sn-4g5edn6y.googlevideo.com&title=yt5s.com-J%E2%80%99avais%20juste%20envie%20d%E2%80%99%C3%A9crire.&cm2rm=sn-gx1v2vax-atne7s,sn-hgnld7s&req_id=a5ce4176a5dca3ee&redirect_counter=2&cms_redirect=yes&mh=Cy&mip=147.94.135.45&mm=34&mn=sn-4g5edn6y&ms=ltu&mt=1634201080&mv=m&mvi=3&pl=16&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgbilDTPBG5V6mvw7s_fU_0-UhXQOV342J8fOILtUvnq4CIH9KqqqCX_6ZSR2LAesSic8sGe0FTs8CuDliF6jwSw9A)
+
+
+
+https://user-images.githubusercontent.com/91655353/137508708-12eaaa45-2aac-4791-a9c7-abbd8fb4f942.mp4
+
 
