@@ -44,6 +44,7 @@ Voici certaines informations à savoir avant de lire cette page.
 
 
 
-https://user-images.githubusercontent.com/91655353/137508708-12eaaa45-2aac-4791-a9c7-abbd8fb4f942.mp4
+https://user-images.githubusercontent.com/91655353/137508833-45916fa9-4855-4c94-9b31-f0e71f5149fd.mp4
+
 
 
