@@ -40,7 +40,7 @@
 #### Le langage corporel :Parmi les spécialistes de la communication non verbale, il est communément admis que le corps ne ment jamais. En effet, il est très difficile de masquer une réaction spontanée du corps en lien avec une information donnée, alors qu’il est plus facile de ne pas répondre verbalement à une sollicitation. Chaque geste, aussi infime soit-il, constitue une information visuelle supplémentaire au message verbal.
 ![nonverbale.jpg](https://slideplayer.fr/slide/3478186/11/images/13/La+communication+dans+le+soin%2C+F+Bernard+et+H.+Musellec.jpg)
 
-#### Pour illustrer ceci voici une video d'un son très philosophique 
+## Pour illustrer ceci voici une video d'un son très philosophique :
 
 
 
